@@ -27,6 +27,7 @@ export default [{
     resolve(),
     replace({
         "process.env.NODE_ENV": JSON.stringify("development"),
+        preventAssignment: true
     })
   ],
   external
