@@ -1,5 +1,5 @@
 {
-  "name": "svelte-motion",
+  "name": "zekythewolf/svelte-motion",
   "version": "0.11.5",
   "description": "Svelte animation library based on the React library framer-motion.",
   "main": "src/index.js",
